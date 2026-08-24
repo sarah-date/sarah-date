@@ -8,7 +8,8 @@ Data Analyst passionate about turning raw data into strategic insights and actio
 - **AI Productivity Tools:** ChatGpt, Copilot
 
 ## 📁 Featured Projects
-- **Restaurant Sales KPI Dashboard:** Analyzed sales trends, key performance metrics, and identified root causes behind order cancellations using Excel.
+- [Restaurant Sales KPI Dashboard](https://github.com/sarah-date/restaurant-sales): Analyzed sales trends, key performance metrics, and identified root causes behind order cancellations using Excel
+
 - **Viewer Duration Analysis (stc tv):** Conducted exploratory data analysis on user watch time patterns and behavior using Python in Google Colab.
 **📫 Connect with me:**
 - [LinkedIn](https://www.linkedin.com/in/sarah-alrhili-589937224)
