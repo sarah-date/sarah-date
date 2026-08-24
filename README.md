@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm Sarah 👋
+Data Analyst passionate about turning raw data into strategic insights and actionable business decisions.
+## 🛠 Skills & Tools
+- **Data Analysis & Reporting:** Microsoft Excel (Pivot Tables, Power Pivot, VLOOKUP/XLOOKUP), Power BI
+ 
+- **Advanced Analytics & Scripting:** Python (Google Colab, Pandas)
 
-<!--
-**sarah-date/sarah-date** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **AI Productivity Tools:** ChatGpt, Copilot
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📁 Featured Projects
+- **Restaurant Sales KPI Dashboard:** Analyzed sales trends, key performance metrics, and identified root causes behind order cancellations using Excel.
+- **Viewer Duration Analysis (stc tv):** Conducted exploratory data analysis on user watch time patterns and behavior using Python in Google Colab.
+**📫 Connect with me:**
+- [LinkedIn](https://www.linkedin.com/in/sarah-alrhili-589937224)
