@@ -16,6 +16,8 @@ Data Analyst passionate about turning raw data into strategic insights and actio
  -  ![Customer Sales Analytics Dashboard](https://raw.githubusercontent.com/sarah-date/customer-Sales-Analytics-Dashboard/main/Customer-Analytics-Sales-Dashboard-Demo.png)
    -  **[HR Analytics Dashboard](https://raw.githubusercontent.com/sarah-date/HR-Analytics-Dashboard)  :** Interactive HR Analytics Dashboard analyzing employee demographics, department counts, yearly hiring trends, and key KPIs.
       ![HR Analytics Dashboard]( https://github.com/sarah-date/HR-Analytics-Dashboard/blob/main/HR_%20Dashboard_2026.png)
+         - **[Expense Analysis Dashboard](https://github.com/sarah-date/Expense-Analysis-Dashboard)**: Interactive Excel dashboard analyzing general, administrative, and selling/distribution expenses.
+         - ![Expense Analysis Dashboard](https://github.com/sarah-date/Expense-Analysis-Dashboard/blob/main/Expenses_Data_Analysis.png)
 - **Viewer Duration Analysis (stc tv):** Conducted exploratory data analysis on user watch time patterns and behavior using Python in Google Colab.
 **📫 Connect with me:**
 - [LinkedIn](https://www.linkedin.com/in/sarah-alrhili-589937224)
